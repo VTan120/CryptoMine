@@ -1,0 +1,9 @@
+.register-btn {
+  background-color: rgb(10, 81, 195);
+  margin-right: 10px;
+  border-radius: 10% !important;
+}
+
+#basic-navbar-nav {
+  margin-left: 700px;
+}
